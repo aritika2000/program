@@ -1,5 +1,5 @@
 import java.io.*;
-class Add{
+public class add{
 	public static void main(String[] args){
 	int a=10;
 	int b=15;
